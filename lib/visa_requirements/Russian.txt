@@ -1,0 +1,240 @@
+Afghanistan+no
+Albania+no
+Algeria+no
+Andorra+no
+Angola+no
+Antigua and Barbuda+yes
+Argentina+yes
+Armenia+yes
+Australia+no
+Austria+no
+Azerbaijan+yes
+Bahamas+yes
+Bahrain+yes-no
+Bangladesh+yes-no
+Barbados+yes
+Belarus+free
+Belgium+no
+Belize+no
+Benin+no
+Bhutan+no
+Bolivia+yes-no
+Bosnia and Herzegovina+yes
+Botswana+yes
+Brazil+yes
+Brunei+no
+Bulgaria+no
+Burkina Faso+no
+Burundi+no
+Cambodia+yes-no
+Cameroon+no
+Canada+no
+Cape Verde+yes-no
+Central African Republic+no
+Chad+no
+Chile+yes
+People's Republic of China+no
+Colombia+yes
+Comoros+yes-no
+Republic of the Congo+no
+Democratic Republic of the Congo+no
+Costa Rica+yes
+Côte d'Ivoire+yes2
+Croatia+no
+Cuba+yes
+Cyprus+no
+Czech Republic+no
+Denmark+no
+Djibouti+yes-no
+Dominica+yes
+Dominican Republic+yes
+Ecuador+yes
+Egypt+yes-no
+El Salvador+yes
+Equatorial Guinea+no
+Eritrea+no
+Estonia+no
+Ethiopia+yes-no
+Fiji+yes
+Finland+no
+France+no
+Gabon+no
+Gambia+yes
+Georgia+yes
+Germany+no
+Ghana+no
+Greece+no
+Grenada+yes
+Guatemala+yes
+Guinea+no
+Guinea-Bissau+yes-no
+Guyana+yes
+Haiti+yes
+Honduras+yes
+Hungary+no
+Iceland+no
+India+yes2
+Indonesia+yes-no
+Iran+yes-no
+Iraq+no
+Ireland+no
+Israel+yes
+Italy+no
+Jamaica+yes
+Japan+no
+Jordan+yes-no
+Kazakhstan+yes
+Kenya+yes-no
+Kiribati+no
+North Korea+no
+South Korea+Yes
+Kuwait+no
+Kyrgyzstan+yes
+Laos+yes
+Latvia+no
+Lebanon+yes-no
+Lesotho+no
+Liberia+no
+Libya+no
+Liechtenstein+no
+Lithuania+no
+Luxembourg+no
+Macedonia+yes
+Madagascar+yes-no
+Malawi+no
+Malaysia+yes
+Maldives+yes-no
+Mali+no
+Malta+no
+Marshall Islands+no
+Mauritania+yes-no
+Mauritius+yes
+Mexico+yes2
+Federated States of Micronesia+yes
+Moldova+yes
+Monaco+no
+Mongolia+yes
+Montenegro+yes
+Morocco+yes
+Mozambique+no
+Myanmar+yes2
+Namibia+yes
+Nauru+no
+Nepal+yes-no
+Netherlands+no
+New Zealand+no
+Nicaragua+yes
+Niger+no
+Nigeria+no
+Norway+no
+Oman+no
+Pakistan+no
+Palau+yes-no
+Panama+yes
+Papua New Guinea+no
+Paraguay+yes
+Peru+yes
+Philippines+yes 
+Poland+no
+Portugal+no
+Qatar+no
+Romania+no
+Rwanda+yes2
+Saint Kitts and Nevis+yes
+Saint Lucia+yes
+Saint Vincent and the Grenadines+yes
+Samoa+yes-no
+San Marino+no
+São Tomé and Príncipe+yes2
+Saudi Arabia+no
+Senegal+yes-no
+Serbia+yes
+Seychelles+yes-no
+Sierra Leone+no
+Singapore+no
+Slovakia+no
+Slovenia+no
+Solomon Islands+no
+Somalia+yes-no
+South Africa+no
+South Sudan+no
+Spain+no
+Sri Lanka+yes2
+Sudan+no
+Suriname+no
+Swaziland+yes
+Sweden+no
+Switzerland+no
+Syria+no
+Tajikistan+yes
+Tanzania+yes-no
+Thailand+yes
+Timor-Leste+yes-no
+Togo+yes-no
+Tonga+yes-no
+Trinidad and Tobago+yes
+Tunisia+yes
+Turkey+yes
+Turkmenistan+no
+Tuvalu+yes-no
+Uganda+yes-no
+Ukraine+yes
+United Arab Emirates+no
+United Kingdom+no
+United States+no
+Uruguay+yes
+Uzbekistan+yes
+Vanuatu+yes
+Vatican City+no
+Venezuela+yes
+Vietnam+yes
+Yemen+no
+Zambia+yes-no
+Zimbabwe+yes-no
+Abkhazia+yes
+Turkish Republic of Northern Cyprus+yes
+Faroe Islands+no
+Gibraltar+no
+Guernsey+no
+Isle of Man+no
+Jersey+no
+Kosovo+no
+Nagorno-Karabakh Republic+yes
+South Ossetia+yes
+Transnistria+yes
+Mayotte+no
+Réunion+no
+Sudan+yes-no
+Hong Kong+yes
+India+yes-no
+Kazakhstan+yes-no
+Macao+yes
+Palestine+yes
+Taiwan+no
+Turkmenistan+no
+Yemen+yes-no
+Anguilla+no
+Aruba+no
+Bermuda+no
+British Virgin Islands+no
+Cayman Islands+no
+Curacao+no
+Greenland+no
+Montserrat+yes2
+Puerto Rico+no
+Saint Pierre and Miquelon+no
+Sint Maarten+no
+Turks and Caicos Islands+yes
+U.S. Virgin Islands+no
+American Samoa+yes-no
+French Polynesia+no
+Guam+yes
+New Caledonia+no
+Niue+yes-no
+Pitcairn Islands+yes
+Wallis and Futuna+no
+Falkland Islands+no
+British Antarctic Territory+Flag
+Argentine Antarctica+flagicon
+Bulgaria+Croatia+Cyprus+Romania+Albania+Andorra+Gibraltar+Timatic
+Ireland+Mexico+Arab League+Iran+Azerbaijan+Cite news\n
